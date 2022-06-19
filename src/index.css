@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Exo2.0';
+  src: url('./fonts/Exo2.0-Thin.otf');
+}
+@font-face {
+  font-family: 'Trebuchet MS';
+  src: url('./fonts/trebuchetms.ttf');
+}
+body {
+  margin: 0;
+  font-family: 'Exo2.0', sans-serif;
+  color: #666666;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
